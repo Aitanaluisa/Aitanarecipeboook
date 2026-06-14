@@ -1,5 +1,5 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Aitana's Recipe Book. A page dedicated to showing all of my recipes.
 ---
 ## The index page
 
